@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096057141526",
+    "project_id": "maranathaconnect-b38df",
+    "storage_bucket": "maranathaconnect-b38df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096057141526:android:ef1fb2f8b5d4401de43837",
+        "android_client_info": {
+          "package_name": "com.example.maranatha_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNozR2UEA86r3TzIR3g8U6fVX5biBT90M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
